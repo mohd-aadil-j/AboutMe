@@ -17,6 +17,8 @@ I'm **Mohamad Aadil J**, an AI & Data Science student passionate about building 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-009688?style=for-the-badge&logo=django&logoColor=white)
+
 
 ### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
